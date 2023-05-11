@@ -1,6 +1,6 @@
 # Customer_satisfaction_analysis
 
-![Sample_Dashboard](http://url/to/img.png)
+![Sample_Dashboard](https://github.com/kavinilavanM/Customer_satisfaction_analysis/blob/main/Customer_satis_screenshot.png)
 
 
 ### Analyse CALL CENTRE dataset and make informative output out of it. 
