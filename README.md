@@ -1,5 +1,7 @@
 # Customer_satisfaction_analysis
 
+![Sample_Dashboard](http://url/to/img.png)
+
 
 ### Analyse CALL CENTRE dataset and make informative output out of it. 
 
